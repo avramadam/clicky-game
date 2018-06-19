@@ -1,0 +1,48 @@
+[{
+  "name": "chicks",
+  "url": "./images/chicks.jpg"
+},
+{
+  "name": "elephant",
+  "url": "./images/elephant.jpg"
+},
+{
+  "name": "flamingo",
+  "url": "./images/flamingo.jpg"
+},
+{
+  "name": "giraffe",
+  "url": "./images/giraffe.jpg"
+},
+{
+  "name": "horse",
+  "url": "./images/horse.jpg"
+},
+{
+  "name": "kitty",
+  "url": "./images/kitty.jpg"
+},
+{
+  "name": "leopard",
+  "url": "./images/leopard.jpg"
+},
+{
+  "name": "lion",
+  "url": "./images/lion.jpg"
+},
+{
+  "name": "panda",
+  "url": "./images/panda.jpg"
+},
+{
+  "name": "parrot",
+  "url": "./images/parrot.jpg"
+},
+{
+  "name": "sheep",
+  "url": "./images/sheep.jpg"
+},
+{
+  "name": "zebra",
+  "url": "./images/zebra.jpg"
+}]
