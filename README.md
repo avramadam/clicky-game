@@ -3,7 +3,7 @@
 ## Overview
 This is a simple but addictive (and serverless) memory game built using React. It relies on CSS animations and the app's state to shuffle around the images available for clicking. 
 
-See a live example here: [https://github.com/avramadam/clicky-game](https://github.com/avramadam/clicky-game). Please enjoy!
+See a live example here: [https://avramadam.github.io/clicky-game/](https://github.com/avramadam/clicky-game). Please enjoy!
 
 ### Technologies Used:
 1. This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app), and so requires npm/yarn.
